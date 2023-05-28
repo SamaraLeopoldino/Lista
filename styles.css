@@ -1,0 +1,19 @@
+#compras {
+    height: 87.9vh;
+    background-image: url(img.png);
+}
+
+.input {
+    margin: 1vh;
+}
+
+.col2 {
+    background-color: lightcoral;
+}
+
+.label {
+    background-color: rgb(90, 87, 87);
+    color: white;
+    font-size: 5vh;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
